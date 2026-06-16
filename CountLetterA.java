@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+    //this is my code
 public class CountLetterA {
 
     public int totalA(String text) {
