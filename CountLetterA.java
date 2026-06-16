@@ -1,4 +1,4 @@
-//h
+//this is my code file
 public class CountLetterA {
 
     public int totalA(String text) {
